@@ -1,8 +1,14 @@
 # MilliGrep
 
+`Custom simplified implementation of grep`
+
+## What is `grep`?
+
 Classic command line tool `grep` (**g**lobally search a **r**egular **e**xpression and **p**rint).
 
-In the simplest use case, `grep` searches a specified file for a specified string. To do so, `grep` takes as its arguments a filename and a string. Then it reads the file, finds lines in that file that contain the string argument, and prints those lines.
+## What is `milligrep`?
+
+In the simplest use case, `milligrep` searches a specified file for a specified string. To do so, `milligrep` takes as its arguments a filename and a string. Then it reads the file, finds lines in that file that contain the string argument, and prints those lines.
 
 `This project is built with Rust and uses Cargo as it's package manager.`
 

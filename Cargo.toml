@@ -3,6 +3,7 @@ name = "milligrep"
 version = "1.0.0"
 authors = ["Jayesh Mann <jayeshmann06@gmail.com>"]
 edition = "2018"
+description = "Custom simplified implementation of grep"
 license = "AGPL-3.0-or-later"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
