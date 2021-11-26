@@ -1,10 +1,10 @@
 [package]
 name = "milligrep"
-version = "1.0.1"
+version = "1.0.2"
 authors = ["Jayesh Mann <jayeshmann06@gmail.com>"]
-edition = "2018"
+edition = "2021"
 description = "Custom simplified implementation of grep"
-documentation = "https://docs.rs/milligrep/1.0.0/milligrep/"
+documentation = "https://docs.rs/milligrep/1.0.2/milligrep/"
 homepage = "https://github.com/jayeshmann/milligrep"
 repository = "https://github.com/jayeshmann/milligrep"
 license = "AGPL-3.0-or-later"
