@@ -1,6 +1,6 @@
 [package]
 name = "milligrep"
-version = "1.0.2"
+version = "1.0.3"
 authors = ["Jayesh Mann <jayeshmann06@gmail.com>"]
 edition = "2021"
 description = "Custom simplified implementation of grep"
